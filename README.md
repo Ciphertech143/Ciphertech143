@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Android developer and data scientist
 ------------------------------------
 
-*   🌍  I'm based in Nigeria
+*   🌍  I'm based in Nigeria, Kaduna, a Computer Science Student in Bayero University Kano  
 *   ✉  You can contact me at [habieb143@gmail.com](mailto:habieb143@gmail.com )
 *   🧠  I'm learning Data science and machine learning
 *   🤝  I'm open to collaborating on Android development<a href="https://www.github.com/Ciphertech143" target="_blank" rel="noreferrer"><img
